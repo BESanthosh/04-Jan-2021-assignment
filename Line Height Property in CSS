@@ -1,0 +1,59 @@
+<html>
+    <head>
+
+<style>
+
+div.a{
+    line-height:normal;
+}
+
+div.b{
+    line-height:1.6;
+}
+
+div.c{
+    line-height:80%;
+}
+
+div.d{
+    line-height:200%;
+}
+
+</style>
+
+
+    </head>
+<title>Line Height Property in CSS</title>
+<center>
+
+
+<body>
+
+<h3> Line Height Normal (Default)</h3>
+<div class="a">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis, repudiandae?<br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.Corrupti modi numquam !<br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum atque fugiat quam.<br>
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque ut quod esse iure.<br></div>
+
+<h3> Line Height : 1.6 (Recommended):</h3>
+<div class="b">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic, adipisci adipisci.<br>
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae alias animi omnis!<br>
+Lorem ipsum, dolor sit amet consectetur adipisicing . Ipsum amet aliquam debitis .<br>
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis rerum velit  !</div>
+
+<h3>Line Height : 80% (Recommended)</h3>
+<div class="c">Lorem ipsum dolor sit amet, consectetur adipisicing adipisicing adipisici ngamet<br>
+Lorem ipsum dolor sit amet consectetur adipisicing e. Consectetur soluta asperiores .<br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, fugaaa! adipisicing <br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, veniam nixddfdsi.</div>
+
+<h3>Line Height 200% (Recommended)</h3>
+<div class="d">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo?dvddddvdddvdvdvdvd<br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur fugit repellat adii.<br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, soluta magni.ww`2w`<br>
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum, quidem ullam.w11</div>
+
+</center>
+</body>
+
+</html>
