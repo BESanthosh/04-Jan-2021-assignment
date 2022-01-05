@@ -1,0 +1,64 @@
+<html>
+    <head>
+    
+       <style>
+           div.a{
+               text-align:left;
+           }
+
+           div.b{
+               text-align:center;
+           }
+           
+           div.c{
+               text-align:right;
+           }
+
+            div.d{
+                text-align:justify;
+            }
+       </style> 
+
+
+
+    </head>
+
+    <title>TEXT Align Property in CSS</title>
+    <body>
+        <div class="a">
+        <h2>Text Align : Left</h2>
+        >Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis qui sed consectetur.<br>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem deserunt voluptate recusandae.<br>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus nihil excepturi tempora.<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas vel delectus libero.</div>
+
+
+        <div class="b">
+        <h2>Text Align : Center</h2>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo nihil et praesentium.<br>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur excepturi doloremque sit!<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, deleniti esse. Iure?<br>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur fuga repudiandae odit.</div>
+
+
+        <div class="c">
+        <h2>Text Align : Right</h2>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur rem voluptatem quisquam.<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, in et. A.dafwrgregegetthhrth<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id animi illo iure.dcwgergerget<br>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam temporibus culpa perspiciatis.</div>
+
+        <div class="d">
+        <h2>Text Align : Justify</h2>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero adipisci rem mollitia.<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores quae voluptates inventore!<br>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt corrupti sed impedit.<br>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda voluptatibus perferendis voluptas.<br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus magnam laborum odio?</div>
+
+    
+    </body>
+</html>
